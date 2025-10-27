@@ -7,6 +7,7 @@ I help mission-driven teams ship reliable, pixel perfect React Native apps with 
 ![React](https://img.shields.io/badge/React-20232a?logo=react)
 ![Typescript](https://img.shields.io/badge/Typescript-313131?logo=typescript)
 ![React Query](https://img.shields.io/badge/React_Query-000000?logo=reactquery)
+![Zustand](https://img.shields.io/badge/Zustand-000000?logo=zustand)
 ![Turbo Repo](https://img.shields.io/badge/Turborepo-0a0a0a?logo=turborepo)
 ![Redux](https://img.shields.io/badge/Redux-764abc?logo=redux)
 ![Testing Library](https://img.shields.io/badge/Testing_Library-1b1b1d?logo=testinglibrary)
@@ -28,14 +29,14 @@ I help mission-driven teams ship reliable, pixel perfect React Native apps with 
 A basic list app using the [Rick and Morty API](https://rickandmortyapi.com/) to list all characters.
 
 **Tech:** RN, TS, Expo, React Query, Jest, Testing Library<br>
-**Repo:** https://github.com/alburdette619/citadel-registry
+**Repo:** [citadel-registry](https://github.com/alburdette619/citadel-registry)
 
 ### Space Traders mobile
 
 *Coming soon*
 
 **Tech:** RN, TS, Expo, React Query, Turborepo<br>
-**Repo:** https://github.com/alburdette619/...
+**Repo:** [space-traders-mobile](https://github.com/alburdette619/space-traders-mobile)
 
 ## Values
 
