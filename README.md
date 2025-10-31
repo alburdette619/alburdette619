@@ -33,6 +33,8 @@ A basic list app using the [Rick and Morty API](https://rickandmortyapi.com/) to
 
 ### Space Traders mobile
 
+**🚧 Under Construction**
+
 A mobile implementation of the [Space Traders API](https://spacetraders.io/).
 
 **Tech:** RN, TS, Expo, React Query, Turborepo<br>
