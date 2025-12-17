@@ -40,6 +40,12 @@ A mobile implementation of the [Space Traders API](https://spacetraders.io/).
 **Tech:** RN, TS, Expo, React Query, Turborepo<br>
 **Repo:** [space-traders-mobile](https://github.com/alburdette619/space-traders-mobile)
 
+### 20 Game Challenge (Godot)
+
+    - [Pong](https://github.com/alburdette619/godot-pong)
+
+**🚧 Under Construction**
+
 ## Values
 
 - Write clean, maintainable code that future developers will be happy to inherit.
